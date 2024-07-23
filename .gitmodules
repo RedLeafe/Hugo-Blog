@@ -1,0 +1,4 @@
+[submodule "blog/prod"]
+	path = blog/prod
+	url = https://github.com/RedLeafe/RedLeafe.github.io.git
+	branch = main
